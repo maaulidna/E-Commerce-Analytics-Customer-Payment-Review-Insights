@@ -122,7 +122,7 @@ These insights can support feature optimization, marketing strategies, payment o
 ```
 ├── notebook.ipynb     # Main analysis notebook
 ├── README.md          # Documentation
-└── data/              # (Optional) Place datasets here if shared
+└── data/              
 ```
 
 ---
